@@ -540,8 +540,8 @@ section.start-animation .skill-title{
     height: 100%;
     width: 100%;
     padding: 8rem 4rem;
-    background: violet;
-    border-radius: 3rem;
+    background: rgba(255,255,255,.1);
+    border-radius: 1rem;
 
 }
 .skill-box1{
